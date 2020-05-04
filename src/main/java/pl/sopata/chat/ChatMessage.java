@@ -1,6 +1,7 @@
 package pl.sopata.chat;
 
 public class ChatMessage {
+
     private String value;
 
     public void setValue(String value) {
